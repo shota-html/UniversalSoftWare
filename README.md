@@ -12,4 +12,6 @@ pip install termcolor
 pip install threading
 pip install requests
 
-git clone 
+git clone https://github.com/shota-html/UniversalSoftWare.git
+cd UniversalSoftWare
+python UniversalSoft.py
